@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Authors>swmal</Authors>
+    <Description>Plugin, publishing events on an Eventstore stream.</Description>
+    <PackageLicenseUrl>https://github.com/swmal/CommandsAndEvents.Eventstore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/swmal/CommandsAndEvents.Eventstore/</PackageProjectUrl>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <PackageTags>Eventstore, DDD</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
